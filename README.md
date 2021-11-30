@@ -1,17 +1,6 @@
 # ValorantRankedPointsBot
 Discord bot that shows ranked point movement using Valorant's Private/In-Game API and match summary using Tracker Network API.
 
-Huge thanks and credit to [RumbleMike](https://github.com/RumbleMike) for his ValorantStreamOverlay and his docs on Valorant's Private/In-Game API. This project was heavily inspired by his work.
-
-This bot is currently not hosted publicly as it can have access to your Valorant login info. But feel free to look at and modify the code. If you have any questions or feedback please message me on discord (PickleJason#5293).
-
-## Features
-![recent](https://i.gyazo.com/39ca2ddb4c786c1ccb1ee50cfabf148d.png)
-
-![match](https://i.gyazo.com/21875cf32811112c60fe97706e687173.png)
-
-![profile](https://i.gyazo.com/42d1dcf36f1ecf3cfeb06592aa09abea.png)
-
 ## Usage
 ```
 -link [Riot ID]
